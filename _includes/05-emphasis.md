@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+My morning always starts with *coffee* and *waffles*.  Then I head over to my desk and open up some reports I made in *excel*, I mainly report on *Grillo's Pickles* scan data. *Grillo's* is a nationally sold refrigerated pickle brand. I also spend time learning *python*. I'm still a beginner, but I just finished a great course from the _University of Michigan_ and I feel ready to use what I learned to start some cool projects.
