@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![I'm a runner!](https://www.teambaa.org/wp-content/uploads/2018/11/fitzgerald-150x150.jpg)
