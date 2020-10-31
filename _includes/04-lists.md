@@ -1,4 +1,4 @@
-Here's a list of some of my fsvorite things:
+Here's a list of some of my favorite things:
 
 * Coffee
 * Waffles
